@@ -80,11 +80,11 @@ Esse desafio **não precisa ser entregue** e não receberá correção, mas voc�
 ## Resultado
 
 Adiciona Repositórios
-<img alt="My Result" src="https://github.com/alanfagner/bootcamp-gostack-desafio-05/blob/master/assets/images/Screenshot_2019-10-26_14-21-22.png">
+<img alt="My Result" src="https://github.com/alanfagner/bootcamp-gostack-desafio-05/blob/master/assets/Screenshot_2019-10-26_14-21-22.png">
 
 
 Detalhes do Repositórios
-<img alt="My Result" src="https://github.com/alanfagner/bootcamp-gostack-desafio-05/blob/master/assets/images/Screenshot_2019-10-26_14-21-38.png">
+<img alt="My Result" src="https://github.com/alanfagner/bootcamp-gostack-desafio-05/blob/master/assets/Screenshot_2019-10-26_14-21-38.png">
 
 
 ## :memo: Licença
